@@ -10,7 +10,7 @@ All training was done using kaggle enviroment and Colab.
 ## Data
 * Only 2020 images
 * Stratified 5-fold CV
-* Removed duplicates from training folds based DBSCAN on image embeddings
+* Removed duplicates from training folds based on DBSCAN on image embeddings
 
 ## Augmentations
 - RandomResizedCrop
