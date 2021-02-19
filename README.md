@@ -48,4 +48,4 @@ As for final submission ensemble of 8 models was used which got me a silver mode
 * Relabeling noisy images based on OOF predictions
 * Removing noisy images based on OOF predictions
 * Removing least performing folds while inference
-* TTA for all models beside EfNet4 and ViT
+* TTA for all models besides EfNet4 and ViT
