@@ -39,3 +39,6 @@ Used several architectures for ensemble:
 * ecaresnet50d
 
 SeResNext and EfficientNet performed best, but transformer ended up being very important to improve the ensemble.
+
+## Ensembling
+As for final submission ensemble of 8 models was used which got me a silver model on private leaderboard.
